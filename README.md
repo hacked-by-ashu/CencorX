@@ -1,12 +1,19 @@
-NOTE : Please Install all the libraries before execution .
-NOTE : Please Set Path For Bad Word File and Tesseract-OCR
+NOTE : Please Install all the libraries before execution . <br />
+NOTE : Please Set Path For Bad Word File and Tesseract-OCR <br />
 
-pip install cv2
-pip install pytesseract
-pip install numpy
-pip install mss
-pip install warnings
-pip install torch
-
+ <br />pip install cv2
+ <br />pip install pytesseract
+ <br />pip install numpy
+ <br />pip install mss
+ <br />pip install warnings
+ <br />pip install torch
+ <br />
 
 NOTE : This is the Prototype version only .......
+ <br />
+
+
+Explicit Content Blur Demo :- https://github.com/user-attachments/assets/ac0877f8-d196-454f-8e21-e730b8895ff3
+ <br />Abusive Word Blur Demo :- https://github.com/user-attachments/assets/44e019c1-b3e5-45b7-9283-b82f52f423a5
+
+
